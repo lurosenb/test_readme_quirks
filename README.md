@@ -1,5 +1,5 @@
 # test_readme_quirks
-<style>
+<style type="text/css">
 .tooltip {
   display: inline;
   position: relative;
